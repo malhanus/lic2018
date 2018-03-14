@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1520976300 source:c:\users\gosia\source\repos\do pracy lic\test\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<sstream>
+
+1520976383 source:c:\users\gosia\source\repos\do pracy lic\test\src\singlevertice.cpp
+	"singleVertice.h"
+
+1520976125 c:\users\gosia\source\repos\do pracy lic\test\include\singlevertice.h
+
+1520977394 source:c:\users\gosia\source\repos\do pracy lic\test\src\funkcje.cpp
+	"funkcje.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	"singleVertice.h"
+	<sstream>
+
+1520977333 c:\users\gosia\source\repos\do pracy lic\test\include\funkcje.h
+	<string>
+	"singleVertice.h"
+
